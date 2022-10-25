@@ -96,7 +96,7 @@ def page_exists(file_path):
 def write_page(fname, path, title, content, link):
 	fh = open(path, 'w')
 	ads = ad.replace(')', '?%s)' % fname)
-	counter = "<img src='http://gfw-breaker.win/easy2view/%s' width='0px' height='0px'/>" % (path[3:])
+	counter = "<img src='http://gfw-breaker.win/epoch-news/%s' width='0px' height='0px'/>" % (path[3:])
 	#print(counter)
 	md = "### %s\n\n---\n\n%s\n\n%s\n\n%s\n\n---\n\n原文链接（需翻墙）：%s" % (title, ads, content, counter, link)
 	fh.write(md)

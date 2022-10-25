@@ -4,4 +4,4 @@
 
 #### 国际新闻 &nbsp;>&nbsp; [美中关系](indexes/nf1412576/README.md?10252045) &nbsp;| &nbsp; [台湾新闻](indexes/ncid1349361/README.md?10252045) &nbsp;| &nbsp; [香港新闻](indexes/ncid1349362/README.md?10252045) &nbsp;| &nbsp; [美国政治](indexes/ncid1078159/README.md?10252045) &nbsp;| &nbsp; [美国社会](indexes/ncid1078160/README.md?10252045) &nbsp;| &nbsp; [美国经济](indexes/ncid1078158/README.md?10252045)
 
-#### 特别专题 &nbsp;>&nbsp; [中共百年历史](https://github.com/easy2view/epoch-special/blob/master/README.md?10252045)  
+#### 特别专题 &nbsp;>&nbsp; [中共百年历史](https://github.com/epoch-news/epoch-special/blob/master/README.md?10252045)  
